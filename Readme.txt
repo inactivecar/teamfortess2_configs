@@ -19,7 +19,7 @@ You mentioned class specific configs?
 	No changes.
 
 4. Demoman.
-	Holding shift rebinds a and d to turning left and right, giving you better control of turning when you charge as a demoman (unpatched as of 3/31/14)
+	Holding shift rebinds a and d to turning left and right, giving you better control of turning when you charge as a demoman (patched 1/4/14, still usefull for the booties though.)
 
 5. Heavy
 	No changes.
